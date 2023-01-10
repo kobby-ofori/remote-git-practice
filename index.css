@@ -1,0 +1,26 @@
+.nav-bar {
+  background-color: indigo;
+  height: 100px;
+}
+
+hr {
+  border: 1px solid white;
+}
+
+.vertical-line {
+  border: 1px solid white;
+}
+
+.profile {
+  background-color: indigo;
+  height: 500px;
+  width: 250px;
+  display: flexbox;
+  flex-direction: column;
+}
+
+.content {
+  background-color: black;
+  height: 500px;
+  width: 100%;
+}
